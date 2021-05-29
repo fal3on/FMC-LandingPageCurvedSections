@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](#)
-- Live Site URL: [Live site](#)
+- Live Site URL: [Live site](https://fmc-landing-page-curved-sections.vercel.app/)
 
 ## My process
 
